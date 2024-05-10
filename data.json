@@ -1,0 +1,1492 @@
+[
+    {
+        "id": 0,
+      "metric": "1",
+      "project_name": "Development of an online platform for selling organic products",
+      "project_direction": "agriculture",
+      "project_goal": "Create a convenient online store for farmers to sell their organic products directly to consumers.",
+      "client_name": "Organic Life",
+      "project_summary": "The aim of this project is to create an online platform that will provide the opportunity to sell organic products directly from producers to consumers. This will support small farmers and make organic products more accessible to a wide range of people.",
+      "budget": {
+        "amount": 50000,
+        "currency": "USD"
+      },
+      "project_timeline": {
+        "from": "2024-07-01",
+        "to": "2025-01-01"
+      },
+      "estimated_actual_time": 1000,
+      "team_composition": [
+        {
+          "full_name": "Alexei Ivanenko",
+          "experience": "10 years",
+          "projects_completed": 20,
+          "brief_description": "Has extensive experience in developing web applications for online stores. Successfully completed many projects with similar themes.",
+          "education": "Higher education, Department of Information Technology"
+        },
+        {
+          "full_name": "Maria Petrenko",
+          "experience": "5 years",
+          "projects_completed": 10,
+          "brief_description": "Specializes in user interface design. Has experience in developing web applications for agriculture.",
+          "education": "Higher education, Department of Design"
+        }
+      ],
+      "subject_to_changes": false
+    },
+    {
+"id": 1,
+      "metric": "2",
+      "project_name": "Development of a mobile application for tracking the health and well-being of pets",
+      "project_direction": "veterinary",
+      "project_goal": "Create an application that will help pet owners track their health, diet, and veterinary appointments.",
+      "client_name": "Veterinary Clinic 'ZooSympathy'",
+      "project_summary": "The aim of this project is to develop a convenient mobile application that will help pet owners track their health and well-being. The application will include functions for recording veterinary appointments, reminders for vaccinations, and conducting preventive measures.",
+      "budget": {
+        "amount": 30000,
+        "currency": "USD"
+      },
+      "project_timeline": {
+        "from": "2024-09-01",
+        "to": "2025-03-01"
+      },
+      "estimated_actual_time": 800,
+      "team_composition": [
+        {
+          "full_name": "Alexander Sidorenko",
+          "experience": "7 years",
+          "projects_completed": 15,
+          "brief_description": "Has extensive experience in developing mobile applications for the medical field. Specializes in developing applications using modern health tracking technologies.",
+          "education": "Higher education, Department of Computer Science"
+        },
+        {
+          "full_name": "Marina Ivanova",
+          "experience": "4 years",
+          "projects_completed": 8,
+          "brief_description": "Specializes in user interface development for mobile applications. Has knowledge in design and ergonomics.",
+          "education": "Higher education, Department of Information Technology"
+        }
+      ],
+      "subject_to_changes": true
+    },
+    {
+        "id": 2,
+      "metric": "3",
+      "project_name": "Development of an electronic document management system for local government",
+      "project_direction": "public administration",
+      "project_goal": "Create a system for automating document workflow and ensuring its effective processing.",
+      "client_name": "Executive Committee of the City Council",
+      "project_summary": "The aim of this project is to develop a system that will help cope with the large volume of documentation received by the municipal administration. The system will include functions for electronic document management, access control, and document storage.",
+      "budget": {
+        "amount": 80000,
+        "currency": "UAH"
+      },
+      "project_timeline": {
+        "from": "2024-10-01",
+        "to": "2025-06-01"
+      },
+      "estimated_actual_time": 1500,
+      "team_composition": [
+        {
+          "full_name": "Vasyl Petrov",
+          "experience": "12 years",
+          "projects_completed": 25,
+          "brief_description": "Has extensive experience in developing corporate electronic document management systems. Successfully implemented similar systems in various municipal administrations.",
+          "education": "Higher education, Department of Information Technology"
+        },
+        {
+          "full_name": "Olga Sidorova",
+          "experience": "6 years",
+          "projects_completed": 12,
+          "brief_description": "Specializes in the implementation and support of electronic document management systems. Has experience working with local government bodies.",
+          "education": "Higher education, Department of Computer Science"
+        }
+      ],
+      "subject_to_changes": true
+    },
+    {
+"id": 3,
+      "metric": "4",
+      "project_name": "Development of a web portal for providing online education services",
+      "project_direction": "education",
+      "project_goal": "Create a platform that will allow users to receive quality education in an online format.",
+      "client_name": "Educational Platform 'Educator'",
+      "project_summary": "The aim of this project is to create a web portal that will combine various online courses and educational materials from different fields of knowledge. The platform will provide users with access to quality education through video lessons, tests, and interactive tasks.",
+      "budget": {
+        "amount": 60000,
+        "currency": "USD"
+      },
+      "project_timeline": {
+        "from": "2024-08-01",
+        "to": "2025-04-01"
+      },
+      "estimated_actual_time": 1200,
+      "team_composition": [
+        {
+          "full_name": "Igor Kovalenko",
+          "experience": "8 years",
+          "projects_completed": 18,
+          "brief_description": "Has experience in developing web portals for educational projects. Engaged in user interface development and support for large educational platforms.",
+          "education": "Higher education, Department of Computer Science"
+        },
+        {
+          "full_name": "Olga Melnyk",
+          "experience": "5 years",
+          "projects_completed": 10,
+          "brief_description": "Specializes in the development of educational web portals. Has experience in creating online courses and test tasks for educational programs.",
+          "education": "Higher education, Department of Information Technology"
+        }
+      ],
+      "subject_to_changes": true
+    },
+    {
+"id": 4,
+      "metric": "5",
+      "project_name": "Development of software for university schedule management",
+      "project_direction": "education",
+      "project_goal": "Create a program that will help universities efficiently manage class schedules and monitor changes.",
+      "client_name": "Educational Institution 'Progress'",
+      "project_summary": "The aim of this project is to develop software that will simplify the process of planning and managing class schedules at universities. The program will include functions for automatic schedule generation, change control, and informing students and professors.",
+      "budget": {
+        "amount": 40000,
+        "currency": "UAH"
+      },
+      "project_timeline": {
+        "from": "2024-11-01",
+        "to": "2025-07-01"
+      },
+      "estimated_actual_time": 900,
+      "team_composition": [
+        {
+          "full_name": "Yuriy Kovalchuk",
+          "experience": "9 years",
+          "projects_completed": 20,
+          "brief_description": "Has experience in developing software for managing the educational process. Successfully implemented similar systems in various educational institutions.",
+          "education": "Higher education, Department of Information Technology"
+        },
+        {
+          "full_name": "Anna Pavlova",
+          "experience": "6 years",
+          "projects_completed": 12,
+          "brief_description": "Specializes in user interface development for software. Has experience in interacting with students and professors of universities.",
+          "education": "Higher education, Department of Computer Science"
+        }
+      ],
+      "subject_to_changes": true
+    },
+{
+"id": 5,
+  "metric": "1",
+  "project_name": "Development of a mobile application for managing personal finances",
+  "project_direction": "finance",
+  "project_goal": "Create a user-friendly mobile app to help individuals manage their personal finances effectively.",
+  "client_name": "FinanceTrack",
+  "project_summary": "The aim of this project is to develop a mobile application that will assist users in tracking and managing their personal finances. It will provide features such as expense tracking, budgeting, and financial goal setting to empower users in making informed financial decisions.",
+  "budget": {
+    "amount": 60000,
+    "currency": "USD"
+  },
+  "project_timeline": {
+    "from": "2024-08-01",
+    "to": "2025-02-01"
+  },
+  "estimated_actual_time": 1200,
+  "team_composition": [
+    {
+      "full_name": "Andrew Smith",
+      "experience": "8 years",
+      "projects_completed": 15,
+      "brief_description": "Skilled mobile app developer with experience in developing finance-related applications. Proficient in both iOS and Android platforms.",
+      "education": "Bachelor's degree in Computer Science"
+    },
+    {
+      "full_name": "Emily Johnson",
+      "experience": "6 years",
+      "projects_completed": 12,
+      "brief_description": "Expert in user experience design for mobile applications. Experienced in creating intuitive interfaces for finance apps.",
+      "education": "Master's degree in Human-Computer Interaction"
+    }
+  ],
+  "subject_to_changes": false
+},
+  {
+    "id": 6,
+    "metric": "1",
+    "project_name": "Development of a blockchain-based voting system for municipal elections",
+    "project_direction": "government",
+    "project_goal": "Implement a secure and transparent voting system using blockchain technology for municipal elections.",
+    "client_name": "CivicTech Solutions",
+    "project_summary": "The aim of this project is to revolutionize the voting process by leveraging blockchain technology to ensure security, transparency, and immutability of election results. The system will enable citizens to vote securely from their mobile devices or computers, eliminating the need for physical polling stations and reducing the risk of fraud.",
+    "budget": {
+      "amount": 100000,
+      "currency": "USD"
+    },
+    "project_timeline": {
+      "from": "2024-09-01",
+      "to": "2025-03-01"
+    },
+    "estimated_actual_time": 1500,
+    "team_composition": [
+      {
+        "full_name": "David Rodriguez",
+        "experience": "12 years",
+        "projects_completed": 25,
+        "brief_description": "Blockchain expert with extensive experience in developing decentralized applications. Specializes in smart contract development and security auditing.",
+        "education": "Ph.D. in Computer Science"
+      },
+      {
+        "full_name": "Sophia Chen",
+        "experience": "8 years",
+        "projects_completed": 18,
+        "brief_description": "Experienced software engineer with a focus on distributed systems and cryptography. Proficient in building secure and scalable blockchain solutions.",
+        "education": "Master's degree in Computer Engineering"
+      }
+    ],
+    "subject_to_changes": true
+  },
+  {
+    "id": 7,
+    "metric": "1",
+    "project_name": "Development of a language learning app for children",
+    "project_direction": "education",
+    "project_goal": "Create an engaging and interactive mobile application to facilitate language learning for children.",
+    "client_name": "LingoKids",
+    "project_summary": "The aim of this project is to develop a fun and educational mobile app that helps children learn new languages through interactive games, activities, and quizzes. The app will target children aged 5 to 10 years old and will focus on building vocabulary, grammar, and pronunciation skills in multiple languages.",
+    "budget": {
+      "amount": 40000,
+      "currency": "USD"
+    },
+    "project_timeline": {
+      "from": "2024-08-15",
+      "to": "2025-02-15"
+    },
+    "estimated_actual_time": 1800,
+    "team_composition": [
+      {
+        "full_name": "Jessica Lee",
+        "experience": "3 years",
+        "projects_completed": 5,
+        "brief_description": "Junior mobile app developer with experience in educational app development. Passionate about creating engaging experiences for children.",
+        "education": "Bachelor's degree in Computer Science"
+      },
+      {
+        "full_name": "Michael Brown",
+        "experience": "4 years",
+        "projects_completed": 8,
+        "brief_description": "UI/UX designer with a focus on children's apps. Skilled in creating intuitive interfaces and captivating designs.",
+        "education": "Bachelor's degree in Design"
+      }
+    ],
+    "subject_to_changes": true
+  },
+  {
+    "id": 8,
+    "metric": "1",
+    "project_name": "Development of a space tourism venture",
+    "project_direction": "space exploration",
+    "project_goal": "Establish a commercial space tourism company offering suborbital flights for civilians.",
+    "client_name": "Galactic Expeditions",
+    "project_summary": "The aim of this project is to pioneer commercial space tourism by offering suborbital flights to individuals seeking a unique and exhilarating experience. Passengers will have the opportunity to view Earth from space and experience microgravity during the flight.",
+    "budget": {
+      "amount": 2000000,
+      "currency": "USD"
+    },
+    "project_timeline": {
+      "from": "2025-01-01",
+      "to": "2025-12-31"
+    },
+    "estimated_actual_time": 2500,
+    "team_composition": [
+      {
+        "full_name": "John Smith",
+        "experience": "15 years",
+        "projects_completed": 10,
+        "brief_description": "Veteran aerospace engineer with extensive experience in spacecraft design and operations. Previously worked on manned space missions.",
+        "education": "Master's degree in Aerospace Engineering"
+      },
+      {
+        "full_name": "Emily Patel",
+        "experience": "12 years",
+        "projects_completed": 8,
+        "brief_description": "Experienced business development manager with a background in aerospace industry partnerships. Skilled in navigating regulatory frameworks.",
+        "education": "Master's degree in Business Administration"
+      }
+    ],
+    "subject_to_changes": true
+  },
+  {
+    "id": 9,
+    "metric": "1",
+    "project_name": "Development of a cloud-based project management platform",
+    "project_direction": "technology",
+    "project_goal": "Create a comprehensive cloud-based project management platform for businesses.",
+    "client_name": "CloudWorks Solutions",
+    "project_summary": "The objective of this project is to develop a feature-rich cloud-based project management platform that enables businesses to efficiently plan, organize, and track their projects. The platform will include tools for task management, team collaboration, time tracking, and reporting to streamline project workflows.",
+    "budget": {
+      "amount": 80000,
+      "currency": "USD"
+    },
+    "project_timeline": {
+      "from": "2025-04-01",
+      "to": "2025-10-01"
+    },
+    "estimated_actual_time": 1800,
+    "team_composition": [
+      {
+        "full_name": "Daniel Kim",
+        "experience": "6 years",
+        "projects_completed": 10,
+        "brief_description": "Experienced full-stack developer with a focus on cloud-based applications. Proficient in building scalable and secure web platforms.",
+        "education": "Bachelor's degree in Computer Science"
+      },
+      {
+        "full_name": "Jennifer Lee",
+        "experience": "4 years",
+        "projects_completed": 8,
+        "brief_description": "Skilled UX/UI designer with experience in designing intuitive and visually appealing web interfaces. Passionate about user-centered design principles.",
+        "education": "Bachelor's degree in Design"
+      }
+    ],
+    "subject_to_changes": true
+  },
+  {
+    "id": 10,
+    "metric": "1",
+    "project_name": "Development of a customer relationship management (CRM) system",
+    "project_direction": "business management",
+    "project_goal": "Build a customized CRM system to streamline customer interactions and improve business efficiency.",
+    "client_name": "CRM Solutions Inc.",
+    "project_summary": "The goal of this project is to develop a tailored CRM system that meets the specific needs of the client's business. The system will centralize customer data, automate sales processes, and enhance communication with customers to foster better relationships and drive business growth.",
+    "budget": {
+      "amount": 90000,
+      "currency": "USD"
+    },
+    "project_timeline": {
+      "from": "2025-05-01",
+      "to": "2025-11-01"
+    },
+    "estimated_actual_time": 1600,
+    "team_composition": [
+      {
+        "full_name": "Michelle Rodriguez",
+        "experience": "8 years",
+        "projects_completed": 12,
+        "brief_description": "Seasoned software engineer specializing in CRM systems development. Experienced in creating scalable and customizable solutions.",
+        "education": "Bachelor's degree in Computer Engineering"
+      },
+      {
+        "full_name": "Ryan Smith",
+        "experience": "6 years",
+        "projects_completed": 10,
+        "brief_description": "Experienced business analyst with a focus on CRM implementations. Skilled in gathering requirements and translating them into functional solutions.",
+        "education": "Bachelor's degree in Business Administration"
+      }
+    ],
+    "subject_to_changes": false
+  },
+  {
+    "id": 11,
+    "metric": "1",
+    "project_name": "Development of a recipe sharing website",
+    "project_direction": "culinary",
+    "project_goal": "Create a platform for users to share and discover recipes.",
+    "client_name": "Foodie Network",
+    "project_summary": "The objective of this project is to develop a user-friendly website where food enthusiasts can share their favorite recipes with others. Users will be able to browse recipes, search by ingredients or categories, and interact with the community by commenting and rating recipes.",
+    "budget": {
+      "amount": 10000,
+      "currency": "USD"
+    },
+    "project_timeline": {
+      "from": "2025-06-01",
+      "to": "2025-12-01"
+    },
+    "estimated_actual_time": 800,
+    "team_composition": [
+      {
+        "full_name": "Emily Thompson",
+        "experience": "4 years",
+        "projects_completed": 6,
+        "brief_description": "Experienced web developer with a focus on front-end development. Proficient in building responsive and visually appealing websites.",
+        "education": "Bachelor's degree in Computer Science"
+      },
+      {
+        "full_name": "James Wilson",
+        "experience": "3 years",
+        "projects_completed": 4,
+        "brief_description": "Junior UX/UI designer with a passion for creating engaging digital experiences. Skilled in designing intuitive user interfaces.",
+        "education": "Bachelor's degree in Design"
+      }
+    ],
+    "subject_to_changes": true
+  },
+  {
+    "id": 12,
+    "metric": "1",
+    "project_name": "Development of a task management mobile app",
+    "project_direction": "productivity",
+    "project_goal": "Create a mobile application to help users manage their tasks effectively.",
+    "client_name": "TaskMaster Technologies",
+    "project_summary": "The goal of this project is to develop a user-friendly mobile app that allows individuals to organize and prioritize their tasks. The app will include features such as task categorization, reminders, and progress tracking to enhance productivity and time management.",
+    "budget": {
+      "amount": 15000,
+      "currency": "USD"
+    },
+    "project_timeline": {
+      "from": "2025-07-01",
+      "to": "2025-12-31"
+    },
+    "estimated_actual_time": 1200,
+    "team_composition": [
+      {
+        "full_name": "Jessica Davis",
+        "experience": "3 years",
+        "projects_completed": 5,
+        "brief_description": "Junior mobile app developer with experience in developing productivity applications. Passionate about creating solutions that improve users' lives.",
+        "education": "Bachelor's degree in Computer Science"
+      },
+      {
+        "full_name": "Michael Clark",
+        "experience": "2 years",
+        "projects_completed": 3,
+        "brief_description": "UI/UX designer specializing in mobile app design. Skilled in creating intuitive interfaces that enhance user experience.",
+        "education": "Bachelor's degree in Design"
+      }
+    ],
+    "subject_to_changes": true
+  },
+  {
+    "id": 13,
+    "metric": "1",
+    "project_name": "Implementation of an enterprise resource planning (ERP) system",
+    "project_direction": "business management",
+    "project_goal": "Deploy an ERP system to streamline business processes and improve operational efficiency.",
+    "client_name": "GlobalCorp Inc.",
+    "project_summary": "The objective of this project is to implement an integrated ERP system that consolidates and automates various business functions such as finance, HR, inventory management, and customer relationship management. The ERP system will enable real-time data access, enhance decision-making capabilities, and optimize resource utilization across the organization.",
+    "budget": {
+      "amount": 500000,
+      "currency": "USD"
+    },
+    "project_timeline": {
+      "from": "2025-08-01",
+      "to": "2026-06-30"
+    },
+    "estimated_actual_time": 4000,
+    "team_composition": [
+      {
+        "full_name": "David Johnson",
+        "experience": "10 years",
+        "projects_completed": 15,
+        "brief_description": "Senior ERP consultant with extensive experience in implementing ERP solutions for large enterprises. Proficient in business process analysis and system customization.",
+        "education": "Master's degree in Business Administration"
+      },
+      {
+        "full_name": "Jennifer Smith",
+        "experience": "8 years",
+        "projects_completed": 12,
+        "brief_description": "Experienced project manager with a track record of successful ERP implementations. Skilled in stakeholder management and project planning.",
+        "education": "Bachelor's degree in Project Management"
+      }
+    ],
+    "subject_to_changes": false
+  },
+  {
+    "id": 14,
+    "metric": "1",
+    "project_name": "Development of an e-learning platform for vocational training",
+    "project_direction": "education",
+    "project_goal": "Create an online platform to provide vocational training courses for various industries.",
+    "client_name": "VocationalSkills Academy",
+    "project_summary": "The aim of this project is to develop a comprehensive e-learning platform that offers vocational training courses to individuals seeking to acquire skills for specific industries. The platform will provide interactive lessons, quizzes, and practical exercises to facilitate effective learning and skill development.",
+    "budget": {
+      "amount": 70000,
+      "currency": "USD"
+    },
+    "project_timeline": {
+      "from": "2025-09-01",
+      "to": "2026-03-01"
+    },
+    "estimated_actual_time": 2500,
+    "team_composition": [
+      {
+        "full_name": "Alexandra Johnson",
+        "experience": "6 years",
+        "projects_completed": 8,
+        "brief_description": "Experienced e-learning developer with expertise in instructional design and course development. Skilled in creating engaging and interactive online learning experiences.",
+        "education": "Master's degree in Education Technology"
+      },
+      {
+        "full_name": "Daniel Brown",
+        "experience": "4 years",
+        "projects_completed": 5,
+        "brief_description": "Junior frontend developer with a focus on web applications. Enthusiastic about contributing to the development of educational technologies.",
+        "education": "Bachelor's degree in Computer Science"
+      }
+    ],
+    "subject_to_changes": true
+  },
+  {
+    "id": 15,
+    "metric": "1",
+    "project_name": "Development of a basic inventory management system",
+    "project_direction": "business management",
+    "project_goal": "Create a simple inventory management system for small businesses.",
+    "client_name": "SmallBiz Solutions",
+    "project_summary": "The goal of this project is to develop a basic inventory management system",
+    "budget": {
+        "amount": 1000,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2026-02-01",
+        "to": "2026-07-01"
+    },
+    "estimated_actual_time": 1200,
+    "team_composition": [
+        {
+            "full_name": "Chris Roberts",
+            "experience": "1 years",
+            "projects_completed": 1,
+            "brief_description": "Experienced software developer with a focus on business applications. Skilled in developing tailored solutions for small businesses.",
+            "education": "Bachelor's degree in Computer Science"
+        },
+        {
+            "full_name": "Emily White",
+            "experience": "1 years",
+            "projects_completed": 2,
+            "brief_description": "UI/UX designer with a passion for creating user-friendly interfaces. Experienced in designing applications for small businesses.",
+            "education": "Bachelor's degree in Design"
+        }
+    ],
+    "subject_to_changes": true
+},
+  {
+    "id": 16,
+    "metric": "1",
+    "project_name": "Development of a personal finance tracking app",
+    "project_direction": "finance",
+    "project_goal": "Create a mobile application to help individuals track their personal finances.",
+    "client_name": "MoneyMinder",
+    "project_summary": "",
+    "budget": {
+        "amount": 20000,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2026-03-01",
+        "to": "2026-09-01"
+    },
+    "estimated_actual_time": 1500,
+    "team_composition": [
+        {
+            "full_name": "Laura Johnson",
+            "experience": "6 years",
+            "projects_completed": 10,
+            "brief_description": "Experienced mobile app developer with a focus on finance applications. Skilled in developing intuitive and feature-rich mobile solutions.",
+            "education": "Bachelor's degree in Computer Science"
+        },
+        {
+            "full_name": "Daniel Brown",
+            "experience": "3 years",
+            "projects_completed": 5,
+            "brief_description": "UI/UX designer specializing in mobile app design. Experienced in creating user-friendly interfaces for finance apps.",
+            "education": "Bachelor's degree in Design"
+        }
+    ],
+    "subject_to_changes": true
+},
+  {
+    "id": 17,
+    "metric": "1",
+    "project_name": "Development of a decentralized finance (DeFi) platform",
+    "project_direction": "finance",
+    "project_goal": "Build a decentralized finance platform for lending, borrowing, and trading cryptocurrencies.",
+    "client_name": "DeFi Innovations",
+    "project_summary": "The objective of this project is to develop a decentralized finance platform that enables users to participate in lending, borrowing, and trading cryptocurrencies without relying on traditional financial intermediaries. The platform will leverage blockchain technology to ensure security, transparency, and immutability of transactions.",
+    "budget": {
+        "amount": 500000,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2026-04-01",
+        "to": "2027-04-01"
+    },
+    "estimated_actual_time": 5000,
+    "team_composition": [
+        {
+            "full_name": "Ethan Davis",
+            "experience": "8 years",
+            "projects_completed": 12,
+            "brief_description": "Blockchain expert with extensive experience in developing decentralized finance solutions. Skilled in smart contract development and blockchain architecture.",
+            "education": "Master's degree in Computer Science"
+        },
+        {
+            "full_name": "Sophia Rodriguez",
+            "experience": "6 years",
+            "projects_completed": 10,
+            "brief_description": "Experienced cryptocurrency trader with a deep understanding of the DeFi ecosystem. Proficient in risk management and financial analysis.",
+            "education": "Bachelor's degree in Finance"
+        },
+        {
+            "full_name": "Sophia Rodriguez",
+            "experience": "6 years",
+            "projects_completed": 10,
+            "brief_description": "Experienced cryptocurrency trader with a deep understanding of the DeFi ecosystem. Proficient in risk management and financial analysis.",
+            "education": "Bachelor's degree in Finance"
+        }
+    ],
+    "subject_to_changes": true
+},
+  {
+    "id": 18,
+    "metric": "1",
+    "project_name": "Development of a deep space exploration probe",
+    "project_direction": "space exploration",
+    "project_goal": "Design and launch a deep space exploration probe to study distant celestial bodies.",
+    "client_name": "Stellar Horizons Research Institute",
+    "project_summary": "The goal of this project is to design and build a deep space exploration probe capable of traveling to distant celestial bodies such as asteroids, comets, or even interstellar space. The probe will carry scientific instruments to study the composition, structure, and origins of these celestial objects.",
+    "budget": {
+        "amount": 20000000,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2026-06-01",
+        "to": "2030-12-31"
+    },
+    "estimated_actual_time": 6000,
+    "team_composition": [
+        {
+            "full_name": "Dr. Alan Parker",
+            "experience": "20 years",
+            "projects_completed": 5,
+            "brief_description": "Renowned astrophysicist and space exploration expert. Has led multiple successful space missions and research projects.",
+            "education": "Ph.D. in Astrophysics"
+        },
+        {
+            "full_name": "Dr. Emily Chen",
+            "experience": "15 years",
+            "projects_completed": 8,
+            "brief_description": "Expert aerospace engineer with extensive experience in spacecraft design and mission planning. Specializes in deep space exploration.",
+            "education": "Ph.D. in Aerospace Engineering"
+        },{
+            "full_name": "Ethan Davis",
+            "experience": "8 years",
+            "projects_completed": 12,
+            "brief_description": "Blockchain expert with extensive experience in developing decentralized finance solutions. Skilled in smart contract development and blockchain architecture.",
+            "education": "Master's degree in Computer Science"
+        },
+        {
+            "full_name": "Sophia Rodriguez",
+            "experience": "6 years",
+            "projects_completed": 10,
+            "brief_description": "Experienced cryptocurrency trader with a deep understanding of the DeFi ecosystem. Proficient in risk management and financial analysis.",
+            "education": "Bachelor's degree in Finance"
+        }
+    ],
+    "subject_to_changes": true
+},
+  {
+    "id": 19,
+    "metric": "1",
+    "project_name": "Development of an AI-powered medical diagnosis system",
+    "project_direction": "healthcare",
+    "project_goal": "Create an AI-powered system for medical diagnosis to assist healthcare professionals.",
+    "client_name": "MediAI Solutions",
+    "project_summary": "The objective of this project is to develop an AI-powered medical diagnosis system capable of analyzing medical data such as imaging scans, lab results, and patient history to assist healthcare professionals in diagnosing diseases and conditions. The system will leverage machine learning algorithms to provide accurate and timely diagnostic recommendations.",
+    "budget": {
+        "amount": 300000,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2026-07-01",
+        "to": "2027-12-31"
+    },
+    "estimated_actual_time": 4000,
+    "team_composition": [
+        {
+            "full_name": "Dr. Sophia Patel",
+            "experience": "12 years",
+            "projects_completed": 10,
+            "brief_description": "Medical doctor with expertise in diagnostic imaging and healthcare informatics. Experienced in applying AI in medical diagnostics.",
+            "education": "M.D., Ph.D. in Medical Imaging"
+        },
+        {
+            "full_name": "Dr. David Wang",
+            "experience": "10 years",
+            "projects_completed": 8,
+            "brief_description": "Data scientist specializing in healthcare analytics and AI applications. Proficient in developing AI algorithms for medical diagnostics.",
+            "education": "Ph.D. in Computer Science"
+        }
+    ],
+    "subject_to_changes": true
+},
+  {
+    "id": 20,
+    "metric": "1",
+    "project_name": "Development of an interactive educational platform for STEM subjects",
+    "project_direction": "education",
+    "project_goal": "Create an interactive educational platform to facilitate learning in STEM (Science, Technology, Engineering, Mathematics) subjects.",
+    "client_name": "STEMEdTech",
+    "project_summary": "The goal of this project is to develop an interactive educational platform tailored for students learning STEM subjects. The platform will offer engaging multimedia content, interactive simulations, and assessment tools to enhance understanding and retention of key concepts.",
+    "budget": {
+        "amount": 100000,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2026-08-01",
+        "to": "2027-06-01"
+    },
+    "estimated_actual_time": 2500,
+    "team_composition": [
+        {
+            "full_name": "Dr. Rachel Johnson",
+            "experience": "10 years",
+            "projects_completed": 15,
+            "brief_description": "Experienced educator with a focus on STEM education. Skilled in curriculum development and instructional design.",
+            "education": "Ph.D. in Education"
+        },
+        {
+            "full_name": "Samuel Lee",
+            "experience": "5 years",
+            "projects_completed": 8,
+            "brief_description": "Software developer specializing in educational technology. Proficient in building interactive learning platforms.",
+            "education": "Bachelor's degree in Computer Science"
+        }
+    ],
+    "subject_to_changes": true
+},
+  {
+    "id": 21,
+    "metric": "1",
+    "project_name": "Development of a revolutionary quantum computing operating system",
+    "project_direction": "technology",
+    "project_goal": "Create a groundbreaking operating system tailored for quantum computing devices.",
+    "client_name": "QuantumTech Innovations Inc.",
+    "project_summary": "The goal of this project is to develop an innovative operating system specifically designed to harness the power of quantum computing. This operating system will need to overcome numerous technical challenges associated with the unique properties of quantum computers, such as superposition and entanglement, to enable practical applications in fields like cryptography, optimization, and simulation.",
+    "budget": {
+        "amount": 5000000,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2027-09-01",
+        "to": "2030-12-31"
+    },
+    "estimated_actual_time": 10000,
+    "team_composition": [
+        {
+            "full_name": "Dr. Amanda Chen",
+            "experience": "20 years",
+            "projects_completed": 10,
+            "brief_description": "Renowned quantum computing expert with extensive experience in theoretical and applied quantum physics. Led multiple research projects in the field of quantum algorithms and quantum information theory.",
+            "education": "Ph.D. in Quantum Physics"
+        },
+        {
+            "full_name": "Dr. Alexander Kim",
+            "experience": "15 years",
+            "projects_completed": 8,
+            "brief_description": "Expert in quantum software engineering and compiler design. Specializes in developing software tools and frameworks for quantum computing platforms.",
+            "education": "Ph.D. in Computer Science"
+        }
+    ],
+    "subject_to_changes": true
+},
+  {
+    "id": 22,
+    "metric": "1",
+    "project_name": "Development of a next-generation autonomous vehicle",
+    "project_direction": "automotive technology",
+    "project_goal": "Create an advanced autonomous vehicle capable of navigating urban environments.",
+    "client_name": "AutoTech Innovations",
+    "project_summary": "The objective of this project is to develop a next-generation autonomous vehicle equipped with advanced sensors, AI algorithms, and connectivity features to navigate urban environments safely and efficiently. The vehicle will incorporate state-of-the-art technologies such as computer vision, LiDAR, and vehicle-to-everything (V2X) communication to enable fully autonomous driving.",
+    "budget": {
+        "amount": 2000000,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2027-09-01",
+        "to": "2029-12-31"
+    },
+    "estimated_actual_time": 8000,
+    "team_composition": [
+        {
+            "full_name": "Dr. Michael Wang",
+            "experience": "20 years",
+            "projects_completed": 15,
+            "brief_description": "Renowned automotive engineer with expertise in autonomous vehicle development. Has led numerous successful projects in the automotive industry.",
+            "education": "Ph.D. in Mechanical Engineering"
+        },
+        {
+            "full_name": "Dr. Emily Chen",
+            "experience": "15 years",
+            "projects_completed": 12,
+            "brief_description": "Expert in artificial intelligence and robotics. Experienced in developing AI-driven solutions for autonomous systems.",
+            "education": "Ph.D. in Robotics"
+        }
+    ],
+    "subject_to_changes": true
+},
+  {
+    "id": 23,
+    "metric": "1",
+    "project_name": "Development of a blockchain-based digital identity platform",
+    "project_direction": "technology",
+    "project_goal": "Create a secure and decentralized platform for managing digital identities.",
+    "client_name": "SecureID Solutions",
+    "project_summary": "The goal of this project is to develop a blockchain-based digital identity platform that provides individuals with secure and verifiable digital identities. The platform will leverage blockchain technology to ensure data integrity, privacy, and security, allowing users to control and share their identity information as needed.",
+    "budget": {
+        "amount": 500000,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2028-03-01",
+        "to": "2029-06-01"
+    },
+    "estimated_actual_time": 4500,
+    "team_composition": [
+        {
+            "full_name": "Dr. Alexandra Liu",
+            "experience": "12 years",
+            "projects_completed": 10,
+            "brief_description": "Blockchain expert with extensive experience in developing decentralized applications. Specializes in digital identity solutions.",
+            "education": "Ph.D. in Computer Science"
+        },
+        {
+            "full_name": "Jason Kim",
+            "experience": "8 years",
+            "projects_completed": 8,
+            "brief_description": "Full-stack developer with expertise in blockchain development. Proficient in building scalable and secure decentralized systems.",
+            "education": "Bachelor's degree in Computer Engineering"
+        }
+    ],
+    "subject_to_changes": true
+},
+{
+    "id": 24,
+    "metric": "1",
+    "project_name": "Development of a space tourism spacecraft",
+    "project_direction": "space exploration",
+    "project_goal": "Create a spacecraft capable of carrying tourists to low Earth orbit for short-duration spaceflights.",
+    "client_name": "SpaceXperience Ventures",
+    "project_summary": "The goal of this project is to develop a space tourism spacecraft that offers commercial spaceflights to individuals seeking a unique space travel experience. The spacecraft will be designed for safety, comfort, and reliability, allowing tourists to enjoy the beauty of space during short-duration flights to low Earth orbit.",
+    "budget": {
+        "amount": 5000000,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2029-03-01",
+        "to": "2031-12-31"
+    },
+    "estimated_actual_time": 10000,
+    "team_composition": [
+        {
+            "full_name": "Dr. Thomas Johnson",
+            "experience": "20 years",
+            "projects_completed": 15,
+            "brief_description": "Aerospace engineer with expertise in spacecraft design and space systems. Experienced in developing vehicles for human spaceflight.",
+            "education": "Ph.D. in Aerospace Engineering"
+        },
+        {
+            "full_name": "Rachel Smith",
+            "experience": "12 years",
+            "projects_completed": 10,
+            "brief_description": "Systems engineer specializing in space systems integration. Proficient in managing complex aerospace projects.",
+            "education": "Master's degree in Systems Engineering"
+        }
+    ],
+    "subject_to_changes": true
+},
+  {
+    "id": 25,
+    "metric": "1",
+    "project_name": "Development of a cloud-based project management platform",
+    "project_direction": "technology",
+    "project_goal": "Create a comprehensive project management platform hosted on the cloud.",
+    "client_name": "CloudPM Solutions",
+    "project_summary": "The objective of this project is to develop a cloud-based project management platform that offers features for task tracking, team collaboration, and project reporting. The platform will be accessible from any device with an internet connection, providing flexibility and scalability for project teams.",
+    "budget": {
+        "amount": 200000,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2029-06-01",
+        "to": "2030-12-31"
+    },
+    "estimated_actual_time": 4000,
+    "team_composition": [
+        {
+            "full_name": "David Johnson",
+            "experience": "10 years",
+            "projects_completed": 8,
+            "brief_description": "Experienced software engineer with a focus on web development. Skilled in building scalable cloud-based applications.",
+            "education": "Bachelor's degree in Computer Science"
+        },
+        {
+            "full_name": "Emily Brown",
+            "experience": "8 years",
+            "projects_completed": 6,
+            "brief_description": "UI/UX designer specializing in user-centered design. Proficient in creating intuitive interfaces for web applications.",
+            "education": "Bachelor's degree in Design"
+        }
+    ],
+    "subject_to_changes": true
+},
+  {
+    "id": 30,
+    "metric": "1",
+    "project_name": "Development of a renewable energy microgrid system",
+    "project_direction": "energy",
+    "project_goal": "Create a sustainable microgrid system powered by renewable energy sources.",
+    "client_name": "RenewaGrid Solutions",
+    "project_summary": "The goal of this project is to develop a renewable energy microgrid system that integrates solar panels, wind turbines, and energy storage to provide reliable and sustainable power to a community or facility. The microgrid will be designed to operate independently or in conjunction with the main power grid, enhancing energy resilience and reducing carbon emissions.",
+    "budget": {
+        "amount": 500000,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2030-01-01",
+        "to": "2031-12-31"
+    },
+    "estimated_actual_time": 6000,
+    "team_composition": [
+        {
+            "full_name": "Dr. Emma Wilson",
+            "experience": "15 years",
+            "projects_completed": 10,
+            "brief_description": "Renewable energy expert with a focus on microgrid systems. Experienced in designing sustainable energy solutions.",
+            "education": "Ph.D. in Renewable Energy Engineering"
+        },
+        {
+            "full_name": "Mark Thompson",
+            "experience": "12 years",
+            "projects_completed": 8,
+            "brief_description": "Electrical engineer specializing in power systems. Proficient in designing and implementing microgrid projects.",
+            "education": "Bachelor's degree in Electrical Engineering"
+        }
+    ],
+    "subject_to_changes": true
+},
+  {
+    "id": 31,
+    "metric": "1",
+    "project_name": "Development of a mobile application for fitness tracking",
+    "project_direction": "health and fitness",
+    "project_goal": "Create a mobile application to help users track their fitness activities and progress.",
+    "client_name": "FitTech Solutions",
+    "project_summary": "The objective of this project is to develop a mobile application that allows users to track their workouts, set fitness goals, and monitor their progress over time. The app will include features such as activity tracking, workout plans, nutrition tracking, and social sharing to motivate users and keep them engaged in their fitness journey.",
+    "budget": {
+        "amount": 100000,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2030-03-01",
+        "to": "2030-12-31"
+    },
+    "estimated_actual_time": 3000,
+    "team_composition": [
+        {
+            "full_name": "Sarah Johnson",
+            "experience": "8 years",
+            "projects_completed": 5,
+            "brief_description": "Experienced mobile app developer with expertise in fitness applications. Skilled in creating user-friendly and feature-rich mobile experiences.",
+            "education": "Bachelor's degree in Computer Science"
+        },
+        {
+            "full_name": "Ryan Thompson",
+            "experience": "6 years",
+            "projects_completed": 3,
+            "brief_description": "UI/UX designer specializing in mobile interfaces. Proficient in creating intuitive and visually appealing app designs.",
+            "education": "Bachelor's degree in Design"
+        }
+    ],
+    "subject_to_changes": true
+},
+  {
+    "id": 32,
+    "metric": "1",
+    "project_name": "Development of an autonomous underwater vehicle for deep-sea exploration",
+    "project_direction": "marine technology",
+    "project_goal": "Create an autonomous underwater vehicle (AUV) capable of exploring deep-sea environments and collecting scientific data.",
+    "client_name": "OceanXplorer Research Institute",
+    "project_summary": "The goal of this project is to develop an advanced autonomous underwater vehicle (AUV) equipped with sensors, cameras, and sampling equipment to conduct scientific research in deep-sea environments. The AUV will be designed to navigate autonomously, collect data on oceanographic parameters, and explore marine ecosystems at depths beyond human reach.",
+    "budget": {
+        "amount": 2000000,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2031-01-01",
+        "to": "2032-12-31"
+    },
+    "estimated_actual_time": 10000,
+    "team_composition": [
+        {
+            "full_name": "Dr. Emma Rodriguez",
+            "experience": "20 years",
+            "projects_completed": 15,
+            "brief_description": "Marine scientist and robotics expert with extensive experience in AUV development. Specializes in deep-sea exploration.",
+            "education": "Ph.D. in Oceanography"
+        },
+        {
+            "full_name": "Dr. James Chen",
+            "experience": "18 years",
+            "projects_completed": 12,
+            "brief_description": "Electrical engineer with expertise in underwater robotics. Experienced in designing and building AUVs for scientific research.",
+            "education": "Ph.D. in Electrical Engineering"
+        }
+    ],
+    "subject_to_changes": true
+},
+  {
+    "id": 33,
+    "metric": "1",
+    "project_name": "Development of a next-generation quantum computing platform",
+    "project_direction": "technology",
+    "project_goal": "Create a scalable and reliable quantum computing platform for scientific and commercial applications.",
+    "client_name": "QuantumLeap Technologies",
+    "project_summary": "The objective of this project is to develop a next-generation quantum computing platform capable of solving complex computational problems that are beyond the capabilities of classical computers. The platform will leverage principles of quantum mechanics to perform calculations at unprecedented speed and efficiency, opening new possibilities for scientific research, cryptography, and optimization.",
+    "budget": {
+        "amount": 5000000,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2031-06-01",
+        "to": "2033-12-31"
+    },
+    "estimated_actual_time": 15000,
+    "team_composition": [
+        {
+            "full_name": "Dr. Sophia Williams",
+            "experience": "25 years",
+            "projects_completed": 20,
+            "brief_description": "Renowned physicist and quantum computing expert. Pioneered research in quantum algorithms and quantum information theory.",
+            "education": "Ph.D. in Physics"
+        },
+        {
+            "full_name": "Andrew Roberts",
+            "experience": "15 years",
+            "projects_completed": 10,
+            "brief_description": "Software architect specializing in quantum computing. Experienced in designing and implementing scalable quantum software.",
+            "education": "Master's degree in Computer Science"
+        }
+    ],
+    "subject_to_changes": true
+},
+{
+    "id": 34,
+    "metric": "1",
+    "project_name": "Development of a manned mission to Mars",
+    "project_direction": "space exploration",
+    "project_goal": "Plan and execute a manned mission to establish a sustainable habitat on Mars.",
+    "client_name": "Red Planet Ventures",
+    "project_summary": "The goal of this project is to plan and execute a manned mission to Mars, with the objective of establishing a sustainable habitat for human colonization. The mission will involve spacecraft design, life support systems, propulsion technologies, and resource utilization strategies to ensure the safety and survival of astronauts in the harsh Martian environment.",
+    "budget": {
+        "amount": 1000000000,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2032-01-01",
+        "to": "2035-12-31"
+    },
+    "estimated_actual_time": 50000,
+    "team_composition": [
+        {
+            "full_name": "Dr. Alexander Brown",
+            "experience": "30 years",
+            "projects_completed": 25,
+            "brief_description": "Renowned aerospace engineer and space mission architect. Led multiple space exploration projects.",
+            "education": "Ph.D. in Aerospace Engineering"
+        },
+        {
+            "full_name": "Dr. Maria Rodriguez",
+            "experience": "25 years",
+            "projects_completed": 20,
+            "brief_description": "Expert in astrobiology and human spaceflight. Specializes in designing life support systems for long-duration space missions.",
+            "education": "Ph.D. in Astrobiology"
+        }
+    ],
+    "subject_to_changes": true
+},
+{
+    "id": 35,
+    "metric": "1",
+    "project_name": "Development of a cloud-based HR management system",
+    "project_direction": "human resources",
+    "project_goal": "Create a comprehensive HR management system hosted on the cloud.",
+    "client_name": "HR Solutions Inc.",
+    "project_summary": "The goal of this project is to develop a cloud-based HR management system that streamlines HR processes such as employee onboarding, performance management, leave management, and payroll processing. The system will provide features for HR administrators, managers, and employees to improve efficiency and enhance the employee experience.",
+    "budget": {
+        "amount": 300000,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2032-03-01",
+        "to": "2033-12-31"
+    },
+    "estimated_actual_time": 8000,
+    "team_composition": [
+        {
+            "full_name": "Emily Johnson",
+            "experience": "10 years",
+            "projects_completed": 8,
+            "brief_description": "Experienced software engineer with expertise in web application development. Skilled in building scalable and user-friendly cloud-based systems.",
+            "education": "Bachelor's degree in Computer Science"
+        },
+        {
+            "full_name": "Michael Smith",
+            "experience": "8 years",
+            "projects_completed": 6,
+            "brief_description": "UI/UX designer specializing in enterprise applications. Proficient in creating intuitive and visually appealing interfaces.",
+            "education": "Bachelor's degree in Design"
+        }
+    ],
+    "subject_to_changes": true
+},
+{
+    "id": 36,
+    "metric": "1",
+    "project_name": "Development of an e-commerce platform for artisanal products",
+    "project_direction": "e-commerce",
+    "project_goal": "Create an online marketplace for artisanal products from around the world.",
+    "client_name": "ArtisanMarket Inc.",
+    "project_summary": "The objective of this project is to develop an e-commerce platform that connects artisans with customers worldwide, enabling the sale of unique and handcrafted products. The platform will feature categories such as handmade jewelry, ceramics, textiles, and artworks, providing a diverse range of artisanal goods to shoppers.",
+    "budget": {
+        "amount": 500000,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2032-06-01",
+        "to": "2033-12-31"
+    },
+    "estimated_actual_time": 10000,
+    "team_composition": [
+        {
+            "full_name": "Sophia Lee",
+            "experience": "8 years",
+            "projects_completed": 6,
+            "brief_description": "Experienced full-stack developer with expertise in e-commerce platforms. Skilled in building scalable and feature-rich online marketplaces.",
+            "education": "Bachelor's degree in Computer Science"
+        },
+        {
+            "full_name": "Emma Davis",
+            "experience": "6 years",
+            "projects_completed": 4,
+            "brief_description": "UI/UX designer specializing in e-commerce user interfaces. Proficient in creating engaging and responsive web designs.",
+            "education": "Bachelor's degree in Design"
+        }
+    ],
+    "subject_to_changes": true
+},
+  {
+    "id": 37,
+    "metric": "1",
+    "project_name": "Development of a corporate website for a small business",
+    "project_direction": "web development",
+    "project_goal": "Create a professional website to showcase the small business's products and services.",
+    "client_name": "SmallBiz Solutions LLC",
+    "project_summary": "The goal of this project is to develop a corporate website for a small business, providing information about the company's products, services, and contact details. The website will be designed to be user-friendly, visually appealing, and optimized for search engines to attract potential customers and enhance the business's online presence.",
+    "budget": {
+      "amount": 10000,
+      "currency": "USD"
+    },
+    "project_timeline": {
+      "from": "2032-08-01",
+      "to": "2032-12-31"
+    },
+    "estimated_actual_time": 1000,
+    "team_composition": [
+      {
+        "full_name": "John Smith",
+        "experience": "5 years",
+        "projects_completed": 3,
+        "brief_description": "Web developer specializing in small business websites. Proficient in front-end and back-end development.",
+        "education": "Bachelor's degree in Computer Science"
+      },
+      {
+        "full_name": "Emily Johnson",
+        "experience": "4 years",
+        "projects_completed": 2,
+        "brief_description": "Graphic designer with experience in web design. Skilled in creating visually appealing and responsive website layouts.",
+        "education": "Bachelor's degree in Graphic Design"
+      }
+    ],
+    "subject_to_changes": true
+  },
+  {
+    "id": 38,
+    "metric": "1",
+    "project_name": "Development of a cybersecurity training platform",
+    "project_direction": "information technology",
+    "project_goal": "Create an interactive online platform to provide cybersecurity training and education for individuals and businesses.",
+    "client_name": "SecureTech Solutions",
+    "project_summary": "The aim of this project is to develop a comprehensive cybersecurity training platform that offers interactive courses, simulations, and practical exercises to educate users about cybersecurity threats and best practices. The platform will cater to both individuals looking to enhance their cybersecurity skills and businesses seeking to train their employees.",
+    "budget": {
+      "amount": 7,
+      "currency": "USD"
+    },
+    "project_timeline": {
+      "from": "2024-08-01",
+      "to": "2025-03-01"
+    },
+    "estimated_actual_time": 1200,
+    "team_composition": [
+      {
+        "full_name": "John Smith",
+        "experience": "12 years",
+        "projects_completed": 25,
+        "brief_description": "Experienced cybersecurity professional with a strong background in developing training programs and educational content. Specializes in cybersecurity awareness and education.",
+        "education": "Master's degree in Cybersecurity"
+      },
+      {
+        "full_name": "Emily Johnson",
+        "experience": "8 years",
+        "projects_completed": 15,
+        "brief_description": "Expert in instructional design and e-learning development. Skilled in creating engaging and effective learning experiences. Previous experience includes designing training platforms for various industries.",
+        "education": "Bachelor's degree in Education"
+      }
+    ],
+    "subject_to_changes": false
+  },
+  {
+    "id": 39,
+    "metric": "1",
+    "project_name": "Development of a mobile application for remote health monitoring",
+    "project_direction": "healthcare",
+    "project_goal": "Design and develop a mobile application",
+    "client_name": "HealthTech Innovations",
+    "project_summary": "monitoring and analysis.",
+    "budget": {
+      "amount": 100000,
+      "currency": "USD"
+    },
+    "project_timeline": {
+      "from": "2024-09-01",
+      "to": "2025-04-01"
+    },
+    "estimated_actual_time": 1500,
+    "team_composition": [
+      {
+        "full_name": "Sarah Chang",
+        "experience": "0 years",
+        "projects_completed": 1,
+        "brief_description": "Experienced mobile app developer with a focus on healthcare applications. Proficient in iOS and Android development and knowledgeable about HIPAA compliance.",
+        "education": "Bachelor's degree in Computer Science"
+      },
+      {
+        "full_name": "Michael Patel",
+        "experience": "0 years",
+        "projects_completed": 1,
+        "brief_description": "Skilled UX/UI designer with a passion for creating intuitive and visually appealing mobile interfaces. Specializes in designing healthcare applications with a user-centered approach.",
+        "education": "Master's degree in Human-Computer Interaction"
+      }
+    ],
+    "subject_to_changes": false
+  },
+  {
+    "id": 40,
+    "metric": "1",
+    "project_name": "Development of an AI-powered customer service chatbot",
+    "project_direction": "customer service",
+    "project_goal": "Create an AI-powered chatbot to enhance customer service capabilities, streamline support processes, and improve user satisfaction.",
+    "client_name": "TechSolutions Inc.",
+    "project_summary": "The objective of this project is to develop a sophisticated AI chatbot capable of handling customer inquiries, providing support, and resolving issues autonomously. The chatbot will be integrated into the company's website and messaging platforms to assist users 24/7, reducing the workload on human customer service agents and improving response times.",
+    "budget": {
+      "amount": 60000,
+      "currency": "USD"
+    },
+    "project_timeline": {
+      "from": "2024-10-01",
+      "to": "2025-05-01"
+    },
+    "estimated_actual_time": 1100,
+    "team_composition": [
+      {
+        "full_name": "David Lee",
+        "experience": "8 years",
+        "projects_completed": 15,
+        "brief_description": "Experienced AI engineer specializing in natural language processing and conversational AI. Proficient in developing chatbots and virtual assistants for various industries.",
+        "education": "Master's degree in Computer Science"
+      },
+      {
+        "full_name": "Sophia Chen",
+        "experience": "6 years",
+        "projects_completed": 10,
+        "brief_description": "Expert in UX design and user interaction. Skilled in designing conversational interfaces that provide seamless user experiences. Previous experience includes developing chatbots for customer service applications.",
+        "education": "Bachelor's degree in Human-Computer Interaction"
+      }
+    ],
+    "subject_to_changes": false
+  },
+  {
+    "id": 41,
+    "metric": "1",
+    "project_name": "Development of a cloud-based project management platform",
+    "project_direction": "project management",
+    "project_goal": "Design and develop a cloud-based project management platform to streamline collaboration, task management, and resource allocation for teams.",
+    "client_name": "TechForward Solutions",
+    "project_summary": "The goal of this project is to create a comprehensive project management platform accessible via the cloud, allowing teams to efficiently organize tasks, track progress, allocate resources, and collaborate in real-time. The platform will integrate features such as task lists, Gantt charts, file sharing, and communication tools to enhance productivity and project transparency.",
+    "budget": {
+        "amount": 8,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2024-11-01",
+        "to": "2025-06-01"
+    },
+    "estimated_actual_time": 1300,
+    "team_composition": [
+        {
+            "full_name": "Andrew Thompson",
+            "experience": "10 years",
+            "projects_completed": 20,
+            "brief_description": "Experienced software architect with a focus on cloud-based applications. Proficient in designing scalable and secure platforms for project management and collaboration.",
+            "education": "Master's degree in Computer Engineering"
+        },
+        {
+            "full_name": "Jessica Ramirez",
+            "experience": "7 years",
+            "projects_completed": 12,
+            "brief_description": "Skilled front-end developer with expertise in user interface design and web development. Experienced in creating intuitive and responsive interfaces for enterprise applications.",
+            "education": "Bachelor's degree in Computer Science"
+        }
+    ],
+    "subject_to_changes": false
+},
+  {
+    "id": 42,
+    "metric": "1",
+    "project_name": "Development of a mobile expense tracking application",
+    "project_direction": "financial management",
+    "project_goal": "Create a user-friendly mobile application to help individuals track their expenses, manage budgets, and analyze spending patterns.",
+    "client_name": "FinEase Solutions",
+    "project_summary": "The objective of this project is to develop a mobile expense tracking application that simplifies the process of recording and categorizing expenses, setting budgets, and generating insightful financial reports. The application will offer intuitive features such as receipt scanning, automatic categorization, and customizable budgeting tools to help users manage their finances effectively.",
+    "budget": {
+        "amount": 40000,
+        "currency": "USD"
+    },
+    "project_timeline": {
+        "from": "2024-12-01",
+        "to": "2025-07-01"
+    },
+    "estimated_actual_time": 900,
+    "team_composition": [
+        {
+            "full_name": "Lisa Wang",
+            "experience": "6 years",
+            "projects_completed": 10,
+            "brief_description": "Experienced mobile app developer with expertise in financial applications. Proficient in both iOS and Android development, with a focus on creating user-friendly interfaces for financial management tools.",
+            "education": "Bachelor's degree in Computer Science"
+        },
+        {
+            "full_name": "Daniel Patel",
+            "experience": "4 years",
+            "projects_completed": 8,
+            "brief_description": "Front-end developer skilled in UI/UX design and mobile application development. Specializes in creating visually appealing and intuitive interfaces for consumer applications.",
+            "education": "Bachelor's degree in Software Engineering"
+        }
+    ],
+    "subject_to_changes": false
+},
+  {
+    "id": 43,
+    "metric": "1",
+    "project_name": "Development of a social networking platform for professionals",
+    "project_direction": "social networking",
+    "project_goal": "Create a professional social networking platform to facilitate networking, knowledge sharing, and collaboration among professionals.",
+    "client_name": "ProConnect Inc.",
+    "project_summary": "The aim of this project is to develop a social networking platform tailored for professionals across various industries. The platform will enable users to create profiles, connect with other professionals, join industry-specific groups, share insights and expertise, and collaborate on projects. It will provide a centralized hub for networking and professional development.",
+    "budget": {
+      "amount": 9,
+      "currency": "USD"
+    },
+    "project_timeline": {
+      "from": "2025-01-01",
+      "to": "2025-08-01"
+    },
+    "estimated_actual_time": 1400,
+    "team_composition": [
+      {
+        "full_name": "Jessica Li",
+        "experience": "9 years",
+        "projects_completed": 18,
+        "brief_description": "Experienced full-stack developer with expertise in web application development. Proficient in building scalable and secure platforms for social networking and community engagement.",
+        "education": "Master's degree in Computer Science"
+      },
+      {
+        "full_name": "Ryan Johnson",
+        "experience": "7 years",
+        "projects_completed": 12,
+        "brief_description": "Front-end developer specializing in user interface design and web development. Skilled in creating intuitive and visually appealing interfaces for social networking applications.",
+        "education": "Bachelor's degree in Software Engineering"
+      }
+    ],
+    "subject_to_changes": false
+  },
+  {
+    "id": 44,
+    "metric": "1",
+    "project_name": "Development of a virtual event platform",
+    "project_direction": "event management",
+    "project_goal": "Design and develop a virtual event platform to host online conferences, webinars, and exhibitions.",
+    "client_name": "EventTech Solutions",
+    "project_summary": "The objective of this project is to create a versatile virtual event platform that enables organizations to host engaging and interactive online events. The platform will support various formats, including live streaming, on-demand content, virtual booths, networking lounges, and interactive sessions. It will provide a comprehensive solution for hosting virtual conferences, trade shows, and other events.",
+    "budget": {
+      "amount": 120000,
+      "currency": "USD"
+    },
+    "project_timeline": {
+      "from": "2025-02-01",
+      "to": "2025-09-01"
+    },
+    "estimated_actual_time": 1800,
+    "team_composition": [
+      {
+        "full_name": "Alexandra Wong",
+        "experience": "11 years",
+        "projects_completed": 25,
+        "brief_description": "Experienced software architect with expertise in designing scalable and resilient systems. Specializes in developing complex web applications and event management platforms.",
+        "education": "Master's degree in Computer Science"
+      },
+      {
+        "full_name": "Daniel Miller",
+        "experience": "9 years",
+        "projects_completed": 18,
+        "brief_description": "Full-stack developer skilled in frontend and backend development. Proficient in building interactive and high-performance web applications for various industries.",
+        "education": "Bachelor's degree in Software Engineering"
+      }
+    ],
+    "subject_to_changes": false
+  },
+  {
+    "id": 45,
+    "metric": "1",
+    "project_name": "Development of a blockchain-based decentralized finance (DeFi) platform",
+    "project_direction": "financial technology",
+    "project_goal": "Create a decentralized finance platform leveraging blockchain technology to provide users with financial services such as lending, borrowing, and trading without intermediaries.",
+    "client_name": "Crypto Innovations Ltd.",
+    "project_summary": "The goal of this project is to develop a decentralized finance (DeFi) platform built on blockchain technology to enable users to access financial services in a decentralized manner. The platform will offer features such as smart contracts for automated transactions, decentralized exchanges for trading various digital assets, and lending protocols for peer-to-peer borrowing and lending. It aims to revolutionize the traditional financial system by providing greater transparency, security, and accessibility to financial services.",
+    "budget": {
+      "amount": 200000,
+      "currency": "USD"
+    },
+    "project_timeline": {
+      "from": "2025-03-01",
+      "to": "2025-12-01"
+    },
+    "estimated_actual_time": 2500,
+    "team_composition": [
+      {
+        "full_name": "Nathan White",
+        "experience": "13 years",
+        "projects_completed": 30,
+        "brief_description": "Blockchain architect with extensive experience in designing and implementing blockchain solutions. Proficient in smart contract development and decentralized application (DApp) development.",
+        "education": "Ph.D. in Computer Science"
+      },
+      {
+        "full_name": "Emma Carter",
+        "experience": "8 years",
+        "projects_completed": 15,
+        "brief_description": "Blockchain developer specializing in Ethereum and Solidity. Skilled in building decentralized applications and smart contracts for various use cases.",
+        "education": "Master's degree in Computer Engineering"
+      }
+    ],
+    "subject_to_changes": false
+  }
+]
